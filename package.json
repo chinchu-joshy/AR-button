@@ -1,0 +1,23 @@
+{
+  "name": "xrgestures-main",
+  "version": "1.0.0",
+  "description": "Add touch gestures to a WebXR AR app without using dom-overlay.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinchu-joshy/AR-button.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinchu-joshy/AR-button/issues"
+  },
+  "homepage": "https://github.com/chinchu-joshy/AR-button#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
